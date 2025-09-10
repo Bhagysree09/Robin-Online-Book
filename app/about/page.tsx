@@ -14,7 +14,7 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-8">
               <div className="space-y-4">
-                <Badge className="bg-primary/10 text-primary border-primary/20">About Earning Guruji</Badge>
+                <Badge className="bg-primary/10 text-primary border-primary/20">About Robin Online Book</Badge>
                 <h1 className="text-4xl lg:text-6xl font-bold text-foreground leading-tight">
                   More Than Just a<span className="text-primary"> Booking Platform</span>
                 </h1>
@@ -45,7 +45,7 @@ export default function AboutPage() {
               <div className="relative z-10">
                 <Image
                   src="/images/robin-logo.png"
-                  alt="Earning Guruji Logo"
+                  alt="Robin Online Book Logo"
                   width={400}
                   height={400}
                   className="mx-auto"
@@ -70,14 +70,14 @@ export default function AboutPage() {
 
             <div className="prose prose-lg max-w-none text-muted-foreground space-y-6">
               <p className="text-lg leading-relaxed">
-                Earning Guruji is more than just a booking platform—it is a complete digital solution designed to
+                Robin Online Book is more than just a booking platform—it is a complete digital solution designed to
                 simplify the way people access services, manage their bookings, and enjoy hassle-free online
                 experiences. In today's fast-paced world, convenience, speed, and security are essential, and our
                 platform has been built with these values at its core.
               </p>
 
               <p className="text-lg leading-relaxed">
-                With Earning Guruji, customers can rely on a smart and user-friendly system that allows them to make
+                With Robin Online Book, customers can rely on a smart and user-friendly system that allows them to make
                 secure bookings anytime, anywhere. We combine the power of innovation with the trust of transparency,
                 ensuring that every transaction is smooth and reliable. Whether you are booking for personal needs,
                 business requirements, or entertainment purposes, our platform is created to deliver an experience that
@@ -85,7 +85,7 @@ export default function AboutPage() {
               </p>
 
               <p className="text-lg leading-relaxed">
-                One of the unique aspects of Earning Guruji is our reward-driven approach. Every transaction you make
+                One of the unique aspects of Robin Online Book is our reward-driven approach. Every transaction you make
                 not only gives you the convenience of a fast and secure booking but also brings you exciting rewards and
                 benefits. This way, our customers don't just use our platform—they gain value every step of the way. We
                 believe in creating long-term relationships with our users by giving them something extra, something
@@ -126,7 +126,7 @@ export default function AboutPage() {
               <CardContent className="text-center">
                 <CardDescription className="text-lg leading-relaxed">
                   To shape the future of online booking and digital convenience by delivering more than just services.
-                  We deliver trust, rewards, and reliability, making Earning Guruji your partner in smarter, more
+                  We deliver trust, rewards, and reliability, making Robin Online Book your partner in smarter, more
                   secure, and more rewarding experiences.
                 </CardDescription>
               </CardContent>
@@ -320,7 +320,7 @@ export default function AboutPage() {
           <div className="max-w-3xl mx-auto space-y-8">
             <h2 className="text-3xl lg:text-4xl font-bold">Ready to Experience the Difference?</h2>
             <p className="text-xl text-background/80">
-              Join our community of satisfied customers and discover why Earning Guruji is the trusted choice for
+              Join our community of satisfied customers and discover why Robin Online Book is the trusted choice for
               secure, rewarding online bookings.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
