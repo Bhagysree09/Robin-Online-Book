@@ -30,7 +30,7 @@ export default function HowItWorksPage() {
           <div className="text-center space-y-8 max-w-4xl mx-auto">
             <Badge className="bg-primary/10 text-primary border-primary/20">Step-by-Step Guide</Badge>
             <h1 className="text-4xl lg:text-6xl font-bold text-foreground leading-tight">
-              How Robin Online Book
+              How Earning Guruji
               <span className="text-primary"> Works</span>
             </h1>
             <p className="text-xl text-muted-foreground leading-relaxed">
@@ -145,7 +145,7 @@ export default function HowItWorksPage() {
           <div className="text-center space-y-4 mb-16">
             <h2 className="text-3xl lg:text-4xl font-bold text-foreground">Platform Features</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Discover what makes Robin Online Book the preferred choice for online bookings
+              Discover what makes Earning Guruji the preferred choice for online bookings
             </p>
           </div>
 
@@ -264,9 +264,9 @@ export default function HowItWorksPage() {
             <TabsContent value="general" className="mt-8">
               <Accordion type="single" collapsible className="w-full">
                 <AccordionItem value="item-1">
-                  <AccordionTrigger>What is Robin Online Book?</AccordionTrigger>
+                  <AccordionTrigger>What is Earning Guruji?</AccordionTrigger>
                   <AccordionContent>
-                    Robin Online Book is a comprehensive digital booking platform that allows you to book various
+                    Earning Guruji is a comprehensive digital booking platform that allows you to book various
                     services online while earning rewards with every transaction. We offer personal, business, and
                     premium services with a focus on security, convenience, and customer satisfaction.
                   </AccordionContent>
@@ -496,7 +496,7 @@ export default function HowItWorksPage() {
           <div className="max-w-3xl mx-auto space-y-8">
             <h2 className="text-3xl lg:text-4xl font-bold">Ready to Get Started?</h2>
             <p className="text-xl text-background/80">
-              Now that you know how it works, start your journey with Robin Online Book and experience the convenience
+              Now that you know how it works, start your journey with Earning Guruji and experience the convenience
               of secure booking with rewards.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

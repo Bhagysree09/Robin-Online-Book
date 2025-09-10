@@ -7,7 +7,7 @@ import { Header } from "@/components/header"
 import Footer from "@/components/footer"
 
 export const metadata: Metadata = {
-  title: "Robin Online Book - Secure Booking with Rewards",
+  title: "Earning Guruji - Secure Booking with Rewards",
   description: "Book smarter, faster, and earn rewards with every booking. Your trusted digital booking platform.",
   generator: "v0.app",
 }

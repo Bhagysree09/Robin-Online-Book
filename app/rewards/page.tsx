@@ -504,7 +504,7 @@ export default function RewardsPage() {
                   </CardHeader>
                   <CardContent>
                     <CardDescription className="mb-4">
-                      Share the Robin Online Book experience with friends and family
+                      Share the Earning Guruji experience with friends and family
                     </CardDescription>
                     <Button className="w-full bg-primary text-primary-foreground hover:bg-primary/90">
                       Redeem Now
@@ -623,7 +623,7 @@ export default function RewardsPage() {
                   <p>• Program terms may be updated with notice</p>
                   <p>• Points and benefits are non-transferable</p>
                   <p>• Account must be in good standing to participate</p>
-                  <p>• Robin Online Book reserves the right to modify the program</p>
+                  <p>• Earning Guruji reserves the right to modify the program</p>
                 </CardContent>
               </Card>
             </div>

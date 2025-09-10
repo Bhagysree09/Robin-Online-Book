@@ -15,7 +15,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info Section */}
           <div className="space-y-4">
-            <h3 className="text-xl font-bold text-royal-gold">Robin Online Book</h3>
+            <h3 className="text-xl font-bold text-royal-gold">Earning Guruji</h3>
             <div className="space-y-2 text-gray-300">
               <div className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-royal-gold" />
@@ -131,7 +131,7 @@ export default function Footer() {
         {/* Bottom Section */}
         <div className="mt-12 pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-sm text-gray-400">© 2025 ROBIN ONLINE BOOK. All rights reserved.</p>
+            <p className="text-sm text-gray-400">© 2025 Earning Guruji. All rights reserved.</p>
 
             <div className="flex items-center gap-6">
               <Link href="/privacy" className="text-sm text-gray-400 hover:text-royal-gold transition-colors">

@@ -26,12 +26,12 @@ export function Header() {
           <Link href="/" className="flex items-center space-x-2">
             <Image
               src="/images/robin-logo.png"
-              alt="Robin Online Book"
+              alt="Earning Guruji"
               width={40}
               height={40}
               className="h-10 w-auto"
             />
-            <span className="text-xl font-bold text-gray-900">Robin Online Book</span>
+            <span className="text-xl font-bold text-gray-900">Earning Guruji</span>
           </Link>
 
           {/* Desktop Navigation */}

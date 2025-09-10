@@ -19,7 +19,7 @@ export default function ContactPage() {
               <Badge className="bg-primary/10 text-primary border-primary/20">Get in Touch</Badge>
               <h1 className="text-4xl lg:text-6xl font-bold text-foreground leading-tight">
                 Contact
-                <span className="text-primary"> Robin Online Book</span>
+                <span className="text-primary"> Earning Guruji</span>
               </h1>
               <p className="text-xl text-muted-foreground leading-relaxed">
                 We're here to help! Reach out to our dedicated support team for any questions, assistance, or feedback.
@@ -427,7 +427,7 @@ export default function ContactPage() {
             <h2 className="text-3xl lg:text-4xl font-bold">We're Here to Help!</h2>
             <p className="text-xl text-background/80">
               Don't hesitate to reach out. Our dedicated support team is committed to providing you with the best
-              possible experience with Robin Online Book.
+              possible experience with Earning Guruji.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90 text-lg px-8 py-6">

@@ -20,7 +20,7 @@ export default function HomePage() {
                   <span className="text-primary"> with Rewards</span>
                 </h1>
                 <p className="text-xl text-muted-foreground leading-relaxed">
-                  Experience hassle-free online bookings with Robin Online Book. Every transaction brings you exciting
+                  Experience hassle-free online bookings with Earning Guruji. Every transaction brings you exciting
                   rewards while ensuring complete security and convenience.
                 </p>
               </div>
@@ -54,7 +54,7 @@ export default function HomePage() {
               <div className="relative z-10">
                 <Image
                   src="/images/mobile-shopping.jpeg"
-                  alt="Robin Online Book Platform - Mobile Shopping Experience"
+                  alt="Earning Guruji Platform - Mobile Shopping Experience"
                   width={600}
                   height={600}
                   className="rounded-lg shadow-2xl"
@@ -70,7 +70,7 @@ export default function HomePage() {
       <section className="py-20 bg-background">
         <div className="container mx-auto px-4">
           <div className="text-center space-y-4 mb-16">
-            <h2 className="text-3xl lg:text-4xl font-bold text-foreground">Why Choose Robin Online Book?</h2>
+            <h2 className="text-3xl lg:text-4xl font-bold text-foreground">Why Choose Earning Guruji?</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
               We combine innovation with trust to deliver an exceptional booking experience
             </p>
@@ -394,7 +394,7 @@ export default function HomePage() {
           <div className="max-w-3xl mx-auto space-y-8">
             <h2 className="text-3xl lg:text-4xl font-bold">Ready to Start Your Rewarding Journey?</h2>
             <p className="text-xl text-background/80">
-              Join thousands of satisfied customers who trust Robin Online Book for their booking needs. Start earning
+              Join thousands of satisfied customers who trust Earning Guruji for their booking needs. Start earning
               rewards today!
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
